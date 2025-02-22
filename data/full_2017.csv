@@ -1,0 +1,20 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2017-1,2017-07-04,000001,Vente,166100,843,,RUE DE LA CHARPINE,0100,01000,01344,Saint-Denis-lès-Bourg,01,,,01344000AK0534,,,,,,,,,,,,,0,1,Maison,73,4,S,sols,,,391,5.204386,46.193683
+2017-2,2017-07-06,000001,Vente,59000,2,,RUE GOUNOD,1720,01000,01053,Bourg-en-Bresse,01,,,01053000AL0175,,,7,,,,,,,,,,1,3,Dépendance,,0,,,,,,5.219932,46.196098
+2017-2,2017-07-06,000001,Vente,59000,2,,RUE GOUNOD,1720,01000,01053,Bourg-en-Bresse,01,,,01053000AL0175,,,45,32.32,,,,,,,,,1,2,Appartement,32,1,,,,,,5.219932,46.196098
+2017-3,2017-07-07,000001,Vente terrain à bâtir,55000,,,LA MAGDELEINE,B033,01160,01430,Varambon,01,,,014300000B0831,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,605,5.304674,46.040624
+2017-4,2017-07-06,000001,Vente,130000,,,HAMEAU DU CREUX EST,B148,01750,01320,Replonges,01,,,013200000D4182,,,,,,,,,,,,,0,,,,,AG,terrains d'agrément,,,259,,
+2017-4,2017-07-06,000001,Vente,130000,5123,,HAMEAU DU CREUX EST,B148,01750,01320,Replonges,01,,,013200000D4184,,,,,,,,,,,,,0,1,Maison,96,2,S,sols,,,471,,
+2017-5,2017-07-03,000001,Vente,145650,3,B,RUE DE LA PREVOYANCE,3220,01000,01053,Bourg-en-Bresse,01,,,01053000AP0316,,,,,,,,,,,,,0,2,Appartement,72,3,S,sols,,,165,5.225402,46.193041
+2017-6,2017-07-03,000001,Vente,80000,5236,,LE BOURG,B028,01560,01364,Saint-Jean-sur-Reyssouze,01,,,013640000B1110,,,,,,,,,,,,,0,1,Maison,200,6,S,sols,,,731,5.061935,46.396448
+2017-7,2017-07-03,000001,Vente,1500,,,AUX BOURRACHONS,B004,01190,01175,Gorrevod,01,,,01175000WB0068,,,,,,,,,,,,,0,,,,,T,terres,,,1577,4.951945,46.417875
+2017-8,2017-07-03,000001,Vente,316500,,,LA BRONDIERE,B039,01380,01025,Bâgé-Dommartin,01,01025,Bâgé-la-Ville,010250000H0034,,,,,,,,,,,,,0,,,,,T,terres,,,929,4.963314,46.307874
+2017-8,2017-07-03,000001,Vente,316500,5943,,LA FORET,B112,01380,01025,Bâgé-Dommartin,01,01025,Bâgé-la-Ville,010250000H0991,,,,,,,,,,,,,0,1,Maison,115,5,S,sols,,,956,4.963243,46.308109
+2017-9,2017-07-05,000001,Vente,105000,155,,RTE DE L ETANG,0060,01190,01057,Boz,01,,,010570000A0904,,,,,,,,,,,,,0,1,Maison,75,4,S,sols,,,580,4.91092,46.408437
+2017-10,2017-07-06,000001,Vente,130000,5093,,GORREVOD VILLAGE,B028,01190,01175,Gorrevod,01,,,01175000WB0591,,,,,,,,,,,,,0,1,Maison,94,3,S,sols,,,948,4.938636,46.420997
+2017-10,2017-07-06,000001,Vente,130000,,,COUSSE VESSE,B015,01190,01175,Gorrevod,01,,,01175000WI0033,,,,,,,,,,,,,0,,,,,P,prés,,,218,4.938478,46.42136
+2017-11,2017-07-03,000001,Vente,219860,14,,ALL DES PINSONS,0014,01240,01069,Certines,01,,,01069000ZD0041,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,1327,5.266108,46.145907
+2017-11,2017-07-03,000001,Vente,219860,14,,ALL DES PINSONS,0014,01240,01069,Certines,01,,,01069000ZD0041,,,,,,,,,,,,,0,1,Maison,139,4,S,sols,,,1327,5.266108,46.145907
+2017-12,2017-07-17,000001,Vente,10000,,,CHAMANDRE,B071,01340,01163,Foissiat,01,,,01163000WC0070,,,,,,,,,,,,,0,,,,,P,prés,,,24175,5.202222,46.406414
+2017-12,2017-07-17,000001,Vente,10000,,,CHAMANDRE,B071,01340,01163,Foissiat,01,,,01163000WC0219,,,,,,,,,,,,,0,,,,,S,sols,,,2693,5.202779,46.406809
+2017-12,2017-07-17,000001,Vente,10000,,,CHAMANDRE,B071,01340,01163,Foissiat,01,,,01163000WC0376,,,,,,,,,,,,,0,,,,,S,sols,,,908,5.202696,46.407108

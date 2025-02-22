@@ -1,0 +1,20 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2018-1,2018-01-03,000001,Vente,109000,13,,RUE GEN LOGEROT,1660,01000,01053,Bourg-en-Bresse,01,,,01053000AN0073,,,13,,,,,,,,,,1,3,Dépendance,,0,,,,,,5.22044,46.200062
+2018-1,2018-01-03,000001,Vente,109000,13,,RUE GEN LOGEROT,1660,01000,01053,Bourg-en-Bresse,01,,,01053000AN0073,,,1,,31,,,,,,,,2,2,Appartement,73,4,,,,,,5.22044,46.200062
+2018-2,2018-01-04,000001,Vente,239300,4,,RUE DE LA BARMETTE,0025,01250,01095,Nivigne et Suran,01,,,01095000AH0186,,,,,,,,,,,,,0,1,Maison,163,4,S,sols,,,949,5.408041,46.255562
+2018-2,2018-01-04,000001,Vente,239300,4,,RUE DE LA BARMETTE,0025,01250,01095,Nivigne et Suran,01,,,01095000AH0186,,,,,,,,,,,,,0,1,Maison,51,2,AG,terrains d'agrément,JARD,Jardin d'agrément,420,5.408041,46.255562
+2018-2,2018-01-04,000001,Vente,239300,4,,RUE DE LA BARMETTE,0025,01250,01095,Nivigne et Suran,01,,,01095000AH0186,,,,,,,,,,,,,0,1,Maison,163,4,AG,terrains d'agrément,JARD,Jardin d'agrément,420,5.408041,46.255562
+2018-2,2018-01-04,000001,Vente,239300,4,,RUE DE LA BARMETTE,0025,01250,01095,Nivigne et Suran,01,,,01095000AH0186,,,,,,,,,,,,,0,1,Maison,51,2,S,sols,,,949,5.408041,46.255562
+2018-3,2018-01-04,000001,Vente,90000,,,LE DRUILLET,B034,01380,01343,Saint-Cyr-sur-Menthon,01,,,01343000ZR0359,,,,,,,,,,,,,0,,,,,S,sols,,,278,4.941705,46.264004
+2018-3,2018-01-04,000001,Vente,90000,5050,,LE DRUILLET,B034,01380,01343,Saint-Cyr-sur-Menthon,01,,,01343000ZR0361,,,,,,,,,,,,,0,1,Maison,150,3,S,sols,,,347,4.941728,46.263782
+2018-3,2018-01-04,000001,Vente,90000,,,LE DRUILLET,B034,01380,01343,Saint-Cyr-sur-Menthon,01,,,01343000ZR0363,,,,,,,,,,,,,0,,,,,S,sols,,,23,4.941799,46.263679
+2018-4,2018-01-10,000002,Vente,3150,,,PONT D AIN,B077,01160,01304,Pont-d'Ain,01,,,01304000AM0461,,,,,,,,,,,,,0,,,,,S,sols,,,126,5.344237,46.050625
+2018-5,2018-01-12,000002,Vente,2100,,,SOUS LE BOIS GIROUD,B135,01250,01195,Jasseron,01,,,011950000C2066,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,197,5.335561,46.213604
+2018-6,2018-01-04,000001,Vente,67000,12,,ALL DE LA PETITE REYSSOUZE,3044,01000,01053,Bourg-en-Bresse,01,,,01053000BD0227,,,19,,,,,,,,,,1,2,Appartement,45,1,,,,,,5.236729,46.201157
+2018-7,2018-01-11,000001,Vente,76200,5,,RUE MOLIERE,2690,01000,01053,Bourg-en-Bresse,01,,,01053000AP0152,,,203,,209,,,,,,,,2,2,Appartement,68,3,,,,,,5.226514,46.191177
+2018-8,2018-01-17,000001,Vente,1000,,,VACAGNOLE,B112,01340,01024,Attignat,01,,,01024000AL0106,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,5093,5.171217,46.265916
+2018-9,2018-01-18,000001,Vente,65000,50,,RUE DOC NODET,1240,01000,01053,Bourg-en-Bresse,01,,,01053000AL0003,,,26,,51,66.76,,,,,,,2,2,Appartement,69,3,,,,,,5.220604,46.193389
+2018-9,2018-01-18,000001,Vente,65000,50,,RUE DOC NODET,1240,01000,01053,Bourg-en-Bresse,01,,,01053000AL0003,,,319,,,,,,,,,,1,3,Dépendance,,0,,,,,,5.220604,46.193389
+2018-10,2018-01-10,000001,Vente,47600,30,,AV JEAN JAURES,1970,01000,01053,Bourg-en-Bresse,01,,,01053000AM0038,,,10,44.12,21,,8,,,,,,3,2,Appartement,45,2,,,,,,5.21758,46.199174
+2018-10,2018-01-10,000001,Vente,47600,30,,AV JEAN JAURES,1970,01000,01053,Bourg-en-Bresse,01,,,01053000AM0038,,,13,,,,,,,,,,1,3,Dépendance,,0,,,,,,5.21758,46.199174
+2018-11,2018-01-08,000001,Vente,47700,,,LE LAIT,B064,01240,01211,Lent,01,,,012110000A0387,,,,,,,,,,,,,0,,,,,E,eaux,ETANG,Etangs,157020,5.209132,46.123578

@@ -1,0 +1,20 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2021-1,2021-01-05,000001,Vente,185000,5080,,CHE DE VOGELAS,0471,01370,01426,Val-Revermont,01,,,01426312ZC0122,,,,,,,,,,,,,0,1,Maison,97,5,S,sols,,,2410,5.386094,46.32714
+2021-1,2021-01-05,000001,Vente,185000,5080,,CHE DE VOGELAS,0471,01370,01426,Val-Revermont,01,,,01426312ZC0122,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,2410,5.386094,46.32714
+2021-2,2021-01-06,000001,Vente,10,,,ROUGEMONT,B043,01290,01042,Bey,01,,,010420000A0204,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,530,4.844368,46.224233
+2021-3,2021-01-04,000001,Vente,204332,7,,ALL DES ECUREUILS,0276,01310,01065,Buellas,01,,,010650000B1325,,,,,,,,,,,,,0,1,Maison,88,4,S,sols,,,866,5.157688,46.200988
+2021-4,2021-01-06,000001,Vente,320000,87,,RTE DE CERTINES,0140,01250,01254,Montagnat,01,,,01254000AZ0011,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,1426,5.27326,46.156334
+2021-4,2021-01-06,000001,Vente,320000,87,,RTE DE CERTINES,0140,01250,01254,Montagnat,01,,,01254000AZ0011,,,,,,,,,,,,,0,1,Maison,168,5,S,sols,,,1426,5.27326,46.156334
+2021-5,2021-01-04,000002,Vente,36.3,,,COMBET MAILLET,B077,01250,01125,Corveissiat,01,,,011250000C1691,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,121,5.462947,46.256243
+2021-6,2021-01-04,000001,Vente,176000,210,,RUE GEORGE SAND,0820,01000,01344,Saint-Denis-lès-Bourg,01,,,01344000AC0181,,,39,,,,,,,,,,1,2,Appartement,71,3,,,,,,5.200117,46.210292
+2021-6,2021-01-04,000001,Vente,176000,210,,RUE GEORGE SAND,0820,01000,01344,Saint-Denis-lès-Bourg,01,,,01344000AC0181,,,29,,,,,,,,,,1,3,Dépendance,,0,,,,,,5.200117,46.210292
+2021-7,2021-01-11,000002,Vente,400,,,PRE BROUILLET,B085,01310,01259,Montcet,01,,,012590000C0459,,,,,,,,,,,,,0,,,,,P,prés,,,460,5.115375,46.211715
+2021-8,2021-01-07,000001,Vente,4780,,,FEUSSAT,B197,01340,01163,Foissiat,01,,,01163000WA0071,,,,,,,,,,,,,0,,,,,T,terres,,,6114,5.161927,46.393824
+2021-8,2021-01-07,000001,Vente,4780,,,FEUSSAT,B197,01340,01163,Foissiat,01,,,01163000WA0071,,,,,,,,,,,,,0,,,,,T,terres,,,6114,5.161927,46.393824
+2021-8,2021-01-07,000001,Vente,4780,,,BERARDAN,B013,01340,01163,Foissiat,01,,,01163000WA0155,,,,,,,,,,,,,0,,,,,P,prés,,,7105,5.158681,46.387845
+2021-8,2021-01-07,000001,Vente,4780,,,LES COMBETTES,B129,01340,01163,Foissiat,01,,,01163000WB0277,,,,,,,,,,,,,0,,,,,BS,taillis sous futaie,,,4570,5.180021,46.386757
+2021-9,2021-01-04,000002,Vente,226700,173,,CHE DU MOULIN DE POLAIZE,0164,01310,01301,Polliat,01,,,01301000AA0289,,,,,,,,,,,,,0,1,Maison,96,3,,,,,,5.108604,46.244066
+2021-10,2021-01-08,000001,Vente,185000,46,,RUE DES GRANGES BONNET,0161,01960,01289,Péronnas,01,,,01289000AD0031,,,,,,,,,,,,,0,1,Maison,100,4,S,sols,,,703,5.210226,46.187698
+2021-11,2021-01-07,000001,Vente,114500,179,,RUE DE LA MAIRIE,0110,01340,01163,Foissiat,01,,,01163000AB0302,,,,,,,,,,,,,0,1,Maison,85,2,S,sols,,,87,5.174845,46.368874
+2021-12,2021-01-11,000001,Vente,84000,,,SUR LE BIEF,B005,01250,01195,Jasseron,01,,,011950000D1056,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,816,5.324793,46.207296
+2021-13,2021-01-08,000001,Vente,145000,,,CHAMANDRE,B071,01340,01163,Foissiat,01,,,01163000WC0214,,,,,,,,,,,,,0,,,,,S,sols,,,431,5.200264,46.404948

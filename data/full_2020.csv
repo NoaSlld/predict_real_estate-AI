@@ -1,0 +1,20 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2020-1,2020-01-07,000001,Vente,8000,,,FORTUNAT,B063,01250,01072,Ceyzériat,01,,,01072000AK0216,,,,,,,,,,,,,0,,,,,T,terres,,,1061,5.323522,46.171899
+2020-2,2020-01-02,000001,Vente,2175,,,TERRES DES CINQ SAULES,B124,01290,01203,Laiz,01,,,012030000B0004,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,85,4.893447,46.251861
+2020-2,2020-01-02,000001,Vente,2175,,,BOIS DU CHAMP RION,B006,01290,01203,Laiz,01,,,012030000B0173,,,,,,,,,,,,,0,,,,,T,terres,,,1115,4.900028,46.235305
+2020-2,2020-01-02,000001,Vente,2175,,,EN COROBERT,B025,01290,01203,Laiz,01,,,012030000B0477,,,,,,,,,,,,,0,,,,,T,terres,,,1940,4.88223,46.246538
+2020-2,2020-01-02,000001,Vente,2175,,,TERRES DES CINQ SAULES,B124,01290,01203,Laiz,01,,,012030000C0068,,,,,,,,,,,,,0,,,,,T,terres,,,1148,4.894481,46.251841
+2020-2,2020-01-02,000001,Vente,2175,,,TERRES DES CINQ SAULES,B124,01290,01203,Laiz,01,,,012030000C0069,,,,,,,,,,,,,0,,,,,T,terres,,,2960,4.894812,46.251944
+2020-3,2020-01-07,000001,Vente,75000,,,RUE DE LA CHARTREUSE,0064,01960,01289,Péronnas,01,,,01289000AI0210,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,610,5.226197,46.184538
+2020-4,2020-01-07,000001,Vente,123,,,CHAMP PORTIER,B041,01370,01426,Val-Revermont,01,,,01426000ZN0197,,,,,,,,,,,,,0,,,,,S,sols,,,55,5.344427,46.263955
+2020-4,2020-01-07,000001,Vente,123,,,CHAMP PORTIER,B041,01370,01426,Val-Revermont,01,,,01426000ZN0201,,,,,,,,,,,,,0,,,,,S,sols,,,68,5.343917,46.263809
+2020-5,2020-01-09,000001,Vente,72000,,,CHAMPEL,B034,01270,01108,Coligny,01,,,01108000AC0015,,,,,,,,,,,,,0,,,,,J,jardins,,,328,5.35055,46.380885
+2020-5,2020-01-09,000001,Vente,72000,,,CHAMPEL,B034,01270,01108,Coligny,01,,,01108000AC0261,,,,,,,,,,,,,0,,,,,P,prés,,,1207,5.34997,46.380842
+2020-5,2020-01-09,000001,Vente,72000,5367,,LORETTE,B107,01270,01108,Coligny,01,,,01108000AH0048,,,,,,,,,,,,,0,1,Maison,35,2,S,sols,,,381,5.350975,46.380915
+2020-6,2020-01-10,000001,Vente,64000,,,RUE DE LA CHARTREUSE,0064,01960,01289,Péronnas,01,,,01289000AI0223,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,530,5.224727,46.185709
+2020-7,2020-01-06,000001,Vente,180300,31,,RUE COMTE DE LA TEYSSONNIERE,0970,01000,01053,Bourg-en-Bresse,01,,,01053000AI0138,,,,,,,,,,,,,0,1,Maison,75,4,S,sols,,,525,5.208926,46.196852
+2020-8,2020-01-06,000001,Vente,54800,6,,AV DU CHAMP DE FOIRE,0770,01000,01053,Bourg-en-Bresse,01,,,01053000BK0197,,,211,31.68,39,,,,,,,,2,2,Appartement,32,1,,,,,,5.229847,46.206687
+2020-9,2020-01-03,000001,Vente,350750,904,,CHE DES GDES CADALLES,0149,01000,01344,Saint-Denis-lès-Bourg,01,,,01344000AC0034,,,,,,,,,,,,,0,,,,,S,sols,,,19,5.200881,46.209977
+2020-9,2020-01-03,000001,Vente,350750,904,B,CHE DES GDES CADALLES,0149,01000,01344,Saint-Denis-lès-Bourg,01,,,01344000AC0039,,,,,,,,,,,,,0,1,Maison,201,7,J,jardins,,,1267,5.200647,46.210416
+2020-9,2020-01-03,000001,Vente,350750,904,B,CHE DES GDES CADALLES,0149,01000,01344,Saint-Denis-lès-Bourg,01,,,01344000AC0039,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,1497,5.200647,46.210416
+2020-9,2020-01-03,000001,Vente,350750,904,B,CHE DES GDES CADALLES,0149,01000,01344,Saint-Denis-lès-Bourg,01,,,01344000AC0039,,,,,,,,,,,,,0,1,Maison,201,7,S,sols,,,1497,5.200647,46.210416

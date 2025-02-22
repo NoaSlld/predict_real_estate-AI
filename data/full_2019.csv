@@ -1,0 +1,20 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2019-1,2019-01-04,000001,Vente,37220,26,,RUE DE MONTHOLON,2730,01000,01053,Bourg-en-Bresse,01,,,01053000AI0298,,,8,19.27,,,,,,,,,1,2,Appartement,20,1,,,,,,5.209562,46.19884
+2019-2,2019-01-04,000001,Vente,185100,22,B,RUE GEN DELESTRAINT,1650,01000,01053,Bourg-en-Bresse,01,,,01053000AM0095,,,7,,,,,,,,,,1,3,Dépendance,,0,,,,,,5.219396,46.198766
+2019-2,2019-01-04,000001,Vente,185100,22,,RUE GEN DELESTRAINT,1650,01000,01053,Bourg-en-Bresse,01,,,01053000AM0095,,,137,,154,61.51,,,,,,,2,2,Appartement,62,3,,,,,,5.219396,46.198766
+2019-3,2019-01-08,000001,Vente,209000,3,,RUE DES CHAMPAGNES,0043,01160,01314,Priay,01,,,013140000E1676,,,,,,,,,,,,,0,1,Maison,90,4,S,sols,,,940,5.282104,45.999566
+2019-4,2019-01-07,000001,Vente,134900,5,,LOT LE BIOLAY,A003,01370,01350,Saint-Étienne-du-Bois,01,,,01350000AA0011,,,,,,,,,,,,,0,1,Maison,101,5,S,sols,,,490,5.299929,46.293278
+2019-5,2019-01-03,000001,Vente,192000,165,,ALL DES LIBELLULES,0445,01340,01024,Attignat,01,,,01024000AI0094,,,,,,,,,,,,,0,1,Maison,88,4,S,sols,,,708,5.174803,46.269978
+2019-6,2019-01-08,000001,Vente,45000,9,,RTE DU VIADUC,0001,01250,01106,Cize,01,,,011060000A0086,,,,,,,,,,,,,0,1,Maison,39,2,S,sols,,,631,5.452079,46.205294
+2019-6,2019-01-08,000001,Vente,45000,,,SUR LA LATIE,B017,01250,01106,Cize,01,,,011060000A0975,,,,,,,,,,,,,0,,,,,L,landes,,,120,5.452073,46.205356
+2019-7,2019-01-04,000001,Vente,65000,50,,RUE DOC NODET,1240,01000,01053,Bourg-en-Bresse,01,,,01053000AL0003,,,317,,,,,,,,,,1,3,Dépendance,,0,,,,,,5.220604,46.193389
+2019-7,2019-01-04,000001,Vente,65000,50,,RUE DOC NODET,1240,01000,01053,Bourg-en-Bresse,01,,,01053000AL0003,,,17,,33,67.78,,,,,,,2,2,Appartement,69,3,,,,,,5.220604,46.193389
+2019-8,2019-01-04,000001,Vente,37000,68,,AV DE MACON,2400,01000,01053,Bourg-en-Bresse,01,,,01053000AB0199,,,107,39.52,16,,,,,,,,2,2,Appartement,39,1,,,,,,5.219038,46.211045
+2019-9,2019-01-08,000001,Vente,70,,,EN CHEVRET,B037,01250,01422,Tossiat,01,,,014220000D1312,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,32,,
+2019-9,2019-01-08,000001,Vente,70,,,EN CHEVRET,B037,01250,01422,Tossiat,01,,,014220000D1316,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,31,,
+2019-10,2019-01-07,000001,Vente,116000,1724,,RTE DE MONTLEGER,0105,01560,01230,Mantenay-Montlin,01,,,01230000ZH0060,,,,,,,,,,,,,0,1,Maison,100,1,S,sols,,,2103,5.118903,46.438805
+2019-11,2019-01-08,000001,Vente,266000,,,CUET,B013,01340,01266,Montrevel-en-Bresse,01,,,012660000C0714,,,,,,,,,,,,,0,,,,,S,sols,,,184,5.112508,46.322143
+2019-11,2019-01-08,000001,Vente,266000,,,CUET,B013,01340,01266,Montrevel-en-Bresse,01,,,012660000C0715,,,,,,,,,,,,,0,,,,,S,sols,,,8,5.112149,46.321808
+2019-11,2019-01-08,000001,Vente,266000,1250,,RTE DE CUET,0037,01340,01266,Montrevel-en-Bresse,01,,,012660000C0716,,,,,,,,,,,,,0,1,Maison,115,4,S,sols,,,1067,5.112068,46.321856
+2019-11,2019-01-08,000001,Vente,266000,1250,,RTE DE CUET,0037,01340,01266,Montrevel-en-Bresse,01,,,012660000C0716,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,1067,5.112068,46.321856
+2019-11,2019-01-08,000001,Vente,266000,,,CUET,B013,01340,01266,Montrevel-en-Bresse,01,,,012660000C0718,,,,,,,,,,,,,0,,,,,S,sols,,,39,5.112204,46.322157
